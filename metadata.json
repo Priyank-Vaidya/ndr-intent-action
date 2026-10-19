@@ -1,0 +1,6 @@
+{
+  "name": "NDR Intent Action Engine",
+  "description": "E-commerce failed-delivery (NDR) AI resolution engine for India mapping customer replies to courier capabilities with honest customer confirmations and escalation flags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
